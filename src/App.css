@@ -4,3 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+.noise-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url("./assets/Images/Noise.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.35;
+  pointer-events: none;
+  z-index: -1;
+}
