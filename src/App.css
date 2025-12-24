@@ -5,7 +5,7 @@
   text-align: center;
 }
 .noise-bg {
-  position: absolute;
+  position: fixed;
   inset: 0;
   background-image: url("./assets/Images/Noise.jpg");
   background-size: cover;
