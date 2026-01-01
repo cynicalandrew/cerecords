@@ -11,7 +11,7 @@ export default function HomePage(){
         <>
             <div >
             </div>
-            <h1 style={{}}>Cosmic Echo Records</h1>
+            <h1 style={{}}>Dev Page</h1>
         </>
     )
 }
