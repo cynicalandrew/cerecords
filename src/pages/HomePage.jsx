@@ -9,8 +9,9 @@ export default function HomePage(){
 
     return (
         <>
-            <h1 >Cosmic Echo Records</h1>
-            <p style={{fontSize:20}}>coming soon</p>
+            <div >
+            </div>
+            <h1 style={{}}>Cosmic Echo Records</h1>
         </>
     )
 }
