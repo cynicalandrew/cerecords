@@ -35,7 +35,6 @@ html,body {
   background-image: url("/logoBannerWhite.png");
   cursor: pointer;
 }
-
 .placeholder-content {
   display: flex;
   flex-direction: column;
